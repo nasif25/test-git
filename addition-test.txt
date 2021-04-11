@@ -1,5 +1,3 @@
 addition test
 
 revert test.
-
-extra info.
