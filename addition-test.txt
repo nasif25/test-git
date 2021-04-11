@@ -1,3 +1,5 @@
 addition test
 
 revert test.
+
+stash test.
