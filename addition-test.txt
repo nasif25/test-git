@@ -5,8 +5,11 @@ revert test.
 stash test.
 
 cherrypick test.
+<<<<<<< HEAD
 
 
 message change commit.
 
 new commit test 
+=======
+>>>>>>> parent of a386700... test bypassing hook
