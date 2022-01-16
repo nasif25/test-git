@@ -1,0 +1,15 @@
+diff --git a/addition-test.txt b/addition-test.txt
+index d95f9bb..b2bdc44 100644
+--- a/addition-test.txt
++++ b/addition-test.txt
+@@ -9,4 +9,7 @@ cherrypick test.
+ 
+ message change commit.
+ 
+-new commit test 
+\ No newline at end of file
++new commit test 
++
++
++stash test
+\ No newline at end of file
