@@ -2,6 +2,20 @@ addition test
 
 revert test.
 
-
+stash test.
 
 cherrypick test.
+
+
+message change commit.
+
+new commit test 
+
+
+stash test
+
+rever test 1
+rever test 2
+
+rever test 3
+
